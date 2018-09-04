@@ -26,5 +26,10 @@ namespace _1819TEST7OpgaveProject
         {
             //version 2 of program
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            //version 3 of program
+        }
     }
 }
